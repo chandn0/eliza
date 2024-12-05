@@ -122,8 +122,6 @@ pnpm install --include=optional sharp
 -   [GitHub Issues](https://github.com/ai16z/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
 -   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ai16z/eliza&type=Date)](https://star-history.com/#ai16z/eliza&Date)

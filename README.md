@@ -122,11 +122,7 @@ pnpm install --include=optional sharp
 -   [GitHub Issues](https://github.com/ai16z/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
 -   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
-## Contributors
 
-<a href="https://github.com/ai16z/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ai16z/eliza" />
-</a>
 
 ## Star History
 
